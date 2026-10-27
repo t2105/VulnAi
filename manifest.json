@@ -1,0 +1,1 @@
+{"id":"tcp_connect","name":"TCP connectivity check","description":"Checks whether the target's common service ports accept a TCP connection; this does not prove exploitability.","script":"check.py","interpreter":"python3"}
